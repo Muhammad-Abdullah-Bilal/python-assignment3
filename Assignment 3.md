@@ -1,12 +1,6 @@
-# Python Dictionaries Assignment  
-
-### Instructions  
-1. Complete all the questions in a Python file.  
-2. Submit the completed file by **[Insert Deadline]**.  
-3. Ensure your code is properly formatted and commented where necessary.  
+# Python Dictionaries Assignment   
 
 ---
-
 ## Questions  
 
 ### **Basic Operations**  
@@ -77,7 +71,3 @@
 30. Create a dictionary comprehension to filter out all keys in `{'a': 1, 'b': 2, 'c': 3, 'd': 4}` where the value is less than 3.  
 
 ---
-
-### Submission  
-- Save your solutions in a `.py` file and submit before the deadline.  
-- **Good Luck!**
